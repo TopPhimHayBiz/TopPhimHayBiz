@@ -1,8 +1,3 @@
-https://www.linkedin.com/in/topphimhaybiz/
-https://www.pinterest.com/TopPhimHayBiz
-https://twitter.com/topphimhaybizz
-https://www.facebook.com/TopPhimHayBiz
-https://www.google.com/maps/place//data=!4m2!3m1!1s0x31358d315de68541:0xf7c5f05673fc9a38?source=g.page.m._
 
 Giới thiệu trang web Top Phim Hay trực thuộc công ti Top Phim Hay Biz 
 
