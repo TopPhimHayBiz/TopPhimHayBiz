@@ -1,6 +1,6 @@
 #!/usr/bin/expect -f
 
-spawn bash -c "scp  -r *.txt.zip  root@23.88.121.231:/root/fr/"
+spawn bash -c "scp  -r /root/*.txt.zip  root@23.88.121.231:/root/fr/"
 expect {
   -re ".*es.*o.*" {
     exp_send "yes\r"
