@@ -1,1 +1,1 @@
-java -jar CrawlBingTrFull.jar jsoupPost_1.txt 200
+java -jar CrawlBingTrFull.jar jsoupPost_1.txt 300
